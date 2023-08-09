@@ -14,4 +14,5 @@ The script can be customized to extract attachments based on various criteria, s
 
 In your case depending on your level of access to Azure AD, you may want to use me Graph endpoint instead of users.
 
-
+#update 09/08/2023
+I updated the script to check in Send items all PDF who start with a certain string and save them to local folder. I check the send items only for date today so i can run the script every 2 minutes to get new pdf files saved.
